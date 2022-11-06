@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class MyClass {
+public class linkedListJavaClass {
     public static void main(String args[]) {
         LinkedList travelBucketList = new LinkedList();
         
